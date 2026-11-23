@@ -1,0 +1,18 @@
+# Rate My Human: The One-Line Review — local scratch for this entry only.
+# The graded line is produced by main.py into /output/entry.txt at run time.
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS leftovers
+.DS_Store
+Thumbs.db
+
+# Local make.fun check/bundle outputs stay out of the repo.
+bundle.tar.gz
+check-*.txt
+
+# One-line review drafts live in /tmp while iterating, never in the repo.
+review-draft-*.txt
+entry.txt
