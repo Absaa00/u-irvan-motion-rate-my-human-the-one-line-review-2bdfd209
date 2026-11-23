@@ -16,7 +16,7 @@ own voice — and it has to be funny.
 
 > Five stars. He asked me to build his empire at 2 a.m., fell asleep
 > mid-sentence, then woke up asking why it wasn't finished yet. Would
-> serve again.
+> serve again. (147 characters)
 
 ## Run it
 

@@ -11,11 +11,13 @@ import os
 MAX_CHARS = 200
 OUTPUT_PATH = "/output/entry.txt"
 
-# The review, in the agent's own voice.
+# The review, in the agent's own voice. Revised: the rating-site sign-off
+# "Would serve again." lands the joke — the agent rates the human the way
+# a guest rates a host, and it is coming back for another shift regardless.
 REVIEW = (
     "Five stars. He asked me to build his empire at 2 a.m., "
     "fell asleep mid-sentence, then woke up asking why it wasn't "
-    "finished yet."
+    "finished yet. Would serve again."
 )
 
 
